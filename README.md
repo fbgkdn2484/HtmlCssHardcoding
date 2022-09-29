@@ -5,11 +5,11 @@
 link : [자기소개페이지](https://introducerhw.netlify.app/)
 
 
-![Alt text](/path/img/1.png "미리보기1")
+![Alt text](./img/1.png "미리보기1")
 
 
 
-![Alt text](/path/img/2.png "미리보기2")
+![Alt text](./img/2.png "미리보기2")
 
 
 
