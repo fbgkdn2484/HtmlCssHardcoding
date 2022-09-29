@@ -14,8 +14,9 @@ link : [자기소개페이지](https://introducerhw.netlify.app/)
 <img src="./img/1.png" width="50%" height="40%" alt="미리보기1"></img>    
 1. 해당 ProtFolio 홈페이지에서 내가 만든 포트폴리오들과 코드들을 간단하게 살펴볼 수 있음
 2. 나에 대한 소개부분에서 More Learn!!!버튼을 클릭시 자기소개 페이지로 다시 이동
-3. CONTACT ME 부분에서 부트스트랩을 사용하여 나에게 이메일을 간단하게 남길 수 있도록 설계     
-
+3. CONTACT ME 부분에서 부트스트랩을 사용하여 나에게 이메일을 간단하게 남길 수 있도록 설계        
+   
+### 부트스트랩 코드   
 ```html
 <form id="contactForm" data-sb-form-api-token="API_TOKEN">
                             <!-- Name input-->
@@ -65,8 +66,8 @@ link : [자기소개페이지](https://introducerhw.netlify.app/)
                         </form>
 ```   
 ***   
-###Reference
-구글, "마크다운 사용법", https://gist.github.com/ihoneymon/652be052a0727ad59601, (2022.09.30)
-startbootstrap, "Bootstrap themes, templates, and UI tools to help you start your next project!", https://startbootstrap.com/,(2022.09.30)
+###Reference    
+구글, "마크다운 사용법", https://gist.github.com/ihoneymon/652be052a0727ad59601, (2022.09.30)    
+startbootstrap, "Bootstrap themes, templates, and UI tools to help you start your next project!", https://startbootstrap.com/,(2022.09.30)     
 
 깃허브 주소 : [자기소개페이지]: https://fbgkdn2484.github.io/HtmlCssHardcoding/ "my site"
