@@ -29,7 +29,7 @@ link : [자기소개페이지](https://introducerhw.netlify.app/)
                 </tbody>
             </table>  
             
-            <table style="display: inline-block; border-collapse: collapse; border-spacing: 0; vertical-align: top;">
+            <table style="background-color:red; display: inline-block; border-collapse: collapse; border-spacing: 0; vertical-align: top;">
                 <tbody>
                     <tr id="myname">
                         <th>이름</th>
