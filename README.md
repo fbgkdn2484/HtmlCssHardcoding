@@ -5,11 +5,12 @@
 link : [자기소개페이지](https://introducerhw.netlify.app/)
 
 
-<img src="./img/1.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="미리보기1"></img>
+<img src="./img/1.png" width="50%" height="40%" alt="미리보기1"></img>
 
 
 
-![Alt text](./img/2.png "미리보기2")
+
+<img src="./img/2.png" width="50%" height="40%" alt="미리보기2"></img>
 
 
 
