@@ -8,11 +8,6 @@ link : [자기소개페이지](https://introducerhw.netlify.app/)
 
 <pre>
   <code>
-    <h1>유하우의 이력서</h1>
-        <section id="my_info">
-            <h2>My info</h2>
-            <img src="img/home.jpg" alt="유하우의 얼굴 사진">  <!-- 이미지가 안나올 때 글자 -->
-            <!-- table>tbody>tr*4>th+td -->
             <table>
                 <tbody>
                     <tr id="myname">
@@ -33,7 +28,27 @@ link : [자기소개페이지](https://introducerhw.netlify.app/)
                     </tr>
                 </tbody>
             </table>  
-        </section>
+            
+            <table style="display: inline-block; border-collapse: collapse; border-spacing: 0; vertical-align: top;">
+                <tbody>
+                    <tr id="myname">
+                        <th>이름</th>
+                        <td>유하우</td>
+                    </tr>
+                    <tr>
+                        <th>직업</th>
+                        <td>개발자</td>
+                    </tr>
+                    <tr>
+                        <th>나이</th>
+                        <td>28</td>
+                    </tr>
+                    <tr>
+                        <th>거주지</th>
+                        <td>부산</td>
+                    </tr>
+                </tbody>
+            </table>  
     </code>
 </pre>
 
