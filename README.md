@@ -4,8 +4,8 @@
 
 link : [자기소개페이지](https://introducerhw.netlify.app/)
 
-## 자기소개 페이지😊
-해당 링크를 클릭 시, 자기소개 페이지로 이동함 <br>
+<span style="color:#d3d3d3">## 자기소개 페이지😊</span>
+해당 링크를 클릭 시, 아래 이미지와 같은 자신을 간단하게 소개하는 자기소개 페이지로 이동함 <br>
 <img src="./img/2.png" width="50%" height="40%" alt="미리보기2"></img>
 
 ***
