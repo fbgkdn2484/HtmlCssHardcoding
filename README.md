@@ -4,11 +4,12 @@
 
 link : [자기소개페이지](https://introducerhw.netlify.app/)
 
-## 자기소개 페이지
+## 자기소개 페이지😛
+해당 링크를 클릭 시, 자기소개 페이지로 이동함 
 <img src="./img/2.png" width="50%" height="40%" alt="미리보기2"></img>
 
 ***
-## ProtFolio 홈페이지
+## ProtFolio 홈페이지😛
 <img src="./img/1.png" width="50%" height="40%" alt="미리보기1"></img>
 
 
